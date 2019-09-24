@@ -1,7 +1,7 @@
 body {
   font-family: Arial;
   padding: 20px;
-  background-image: url("https://sorensenleather.com/wp-content/uploads/Collections/Spectrum/spectrum-dark-grey.jpg");
+  background: #f1f1f1;
 }
 
 /* Header/Blog Title */
@@ -45,7 +45,6 @@ body {
   content: "";
   display: table;
   clear: both;
-}
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 800px) {
