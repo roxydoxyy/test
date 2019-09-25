@@ -24,10 +24,9 @@ rightbox {
   padding: 20px;
 }
 
-/* Fake image */
 .fakeimg {
   background-color: #010101;
-  width: 100%;
+  width: 75%;
   padding: 20px;
 }
 
@@ -36,8 +35,7 @@ rightbox {
   padding: 20px;
   margin-top: 20px;
 }
-
-/* Clear floats after the columns */
+i
 .row:after {
   content: "";
   display: table;
