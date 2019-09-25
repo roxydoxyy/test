@@ -23,12 +23,21 @@ rightbox {
   padding: 20px;
 }
 
+.fakeimg-1 {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
 .card {
   background-color: #322F2F;
   padding: 20px;
   margin-top: 20px;
 }
-i
+  
+ .fakeimg-3 {
+   background-color: #aaa;
+   width: 100%
+   padding: 20px;
+   
 .row:after {
   content: "";
   display: table;
