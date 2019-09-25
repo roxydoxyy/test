@@ -5,6 +5,7 @@
 /* Add a gray background color with some padding */
 body {
   font-family: Arial;
+  color: #73a5de;
   padding: 20px;
   background-color: #2b2b2b;
 }
