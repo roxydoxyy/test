@@ -1,14 +1,14 @@
 body {
   font-family: Helvetica;
   padding: 20px;
-  background-image: url("https://wallpaperplay.com/walls/full/0/2/5/139467.jpg");
+  background-color: #322F2F;
 }
 
 header {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background: grey;
+  background: white;
 }
 
 /* Create two unequal columns that floats next to each other */
