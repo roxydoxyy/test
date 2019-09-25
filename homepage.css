@@ -17,10 +17,8 @@ body {
   background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 }
 
-ul {
-  list-type: none;
-  margin: 0;
-  padding: 0;
+li {
+  display: inline;
 }
 
 /* Create two unequal columns that floats next to each other */
