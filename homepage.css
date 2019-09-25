@@ -37,7 +37,7 @@ li {
 
 /* Fake image */
 .fakeimg {
-  background-color: #aaa;
+  background-image: url("https://i.imgur.com/htLFrox.jpg");
   width: 100%;
   padding: 20px;
 }
