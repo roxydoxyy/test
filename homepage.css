@@ -12,12 +12,12 @@
   background-color: #322F2F;
 }
 
-leftbox {
+.leftbox {
   float: left;
   width: 75%;
 }
 
-rightbox {
+.rightbox {
   float: right;
   width: 25%;
   padding: 20px;
@@ -27,6 +27,7 @@ rightbox {
   background-color: #aaa;
   width: 100%;
   padding: 20px;
+  
 .card {
   background-color: #322F2F;
   padding: 20px;
