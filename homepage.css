@@ -14,7 +14,7 @@ body {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background-image: url("https://myrealdomain.com/images/black-background-pattern-7.png");
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -40,7 +40,7 @@ body {
 
 /* Add a card effect for articles */
 .card {
-   background-color: #2b2b2b;
+   background-color: #292928;
    padding: 20px;
    margin-top: 20px;
 }
@@ -56,7 +56,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background: #292928;
   margin-top: 20px;
 }
 
