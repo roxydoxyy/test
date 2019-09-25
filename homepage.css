@@ -9,7 +9,7 @@ body {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background-color: grey;
+  background-color: darkgrey;
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -47,7 +47,7 @@ rightbox {
 }
 
 .card {
-  background-color: grey;
+  background-color: darkgrey;
   padding: 20px;
   margin-top: 20px;
 }
