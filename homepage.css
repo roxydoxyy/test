@@ -4,22 +4,21 @@ body {
   background-image: url("https://wallpaperplay.com/walls/full/0/2/5/139467.jpg");
 }
 
-/* Header/Blog Title */
-.header {
+header {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background: white;
+  background: grey;
 }
 
 /* Create two unequal columns that floats next to each other */
-/* Left column */
-.leftcolumn {
+
+leftbox {
   float: left;
   width: 75%;
 }
 
-.rightcolumn {
+rightbox {
   float: right;
   width: 25%;
   padding: 20px;
