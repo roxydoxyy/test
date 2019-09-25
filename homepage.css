@@ -55,6 +55,8 @@ li {
    background-color: #292928;
    padding: 20px;
    margin-top: 20px;
+   height: 300px;
+   width:100%;
 }
 
 /* Clear floats after the columns */
