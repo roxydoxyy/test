@@ -42,7 +42,14 @@ li {
   padding-left: 20px;
 }
 
-.image {
+.image-1 {
+  background-color: #2b2b2b;
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+}
+
+.image-2 {
   background-color: #2b2b2b;
   width: 100%;
   height:200px;
