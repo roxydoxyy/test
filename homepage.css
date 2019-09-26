@@ -31,6 +31,7 @@ button1 {
   width: 250px;
   float: left;
   font-family: arial;
+  border-radius: 10%;
 }
 
 button2 {
