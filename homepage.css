@@ -63,6 +63,9 @@ button4 {
   float: left;
   font-family: arial;
   
+  Heading {
+    color: #7EB7EF;
+  }
   
 a {
   text-decoration: none;
