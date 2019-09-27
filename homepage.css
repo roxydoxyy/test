@@ -25,17 +25,16 @@ li {
 }
 
 button1 {
-  background-color: #001f33;
+  background-color: #0f0f0f;
   padding: 12px 28px;
-  color: #;
+  color: #0f0f0f;
   width: 250px;
   float: left;
   font-family: arial;
-  border-radius: 10%;
 }
 
 button2 {
-  background-color: #001f33;
+  background-color: #0f0f0f;
   padding: 12px 28px;
   color: #010101;
   width: 250px;
