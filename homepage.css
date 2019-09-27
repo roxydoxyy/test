@@ -29,7 +29,7 @@ button1 {
   padding: 12px 28px;
   color: #0f0f0f;
   width: 250px;
-  float: left;
+  float: center;
   font-family: arial;
 }
 
@@ -38,7 +38,7 @@ button2 {
   padding: 12px 28px;
   color: #010101;
   width: 250px;
-  float:left;
+  float:center;
   font-family: arial;
 }
 
@@ -47,7 +47,7 @@ button3 {
   padding:12px 28px;
   color: #010101;
   width: 250px;
-  float:left;
+  float:center;
   font-family: arial;
   opacity: 0.6%;
   transition: 0.3s;
@@ -59,7 +59,7 @@ button4 {
   padding: 12px 28px;
   color: #010101;
   width: 250px;
-  float: left;
+  float: center;
   font-family: arial;
   
   
