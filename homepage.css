@@ -13,12 +13,11 @@ header {
   background-size: cover;
 }
 
-ul {
+ul li{
   list-style-type: none;
   margin: 10px;
   padding: 20;
   text-align: center;
-  float: center;
 }
 
 li {
@@ -27,14 +26,11 @@ li {
 
 button1 {
   background-color: #0f0f0f;
-  border: none;
+  padding: 12px 28px;
   color: #010101;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin: 4px 2px;
-  cursor: pointer;
+  width: 250px;
+  float: center;
+  font-family: arial;
 }
 
 button2 {
