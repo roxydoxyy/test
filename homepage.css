@@ -68,22 +68,6 @@ a {
   color: white;
 }
 
-
-
-/* Create two unequal columns that floats next to each other */
-/* Left column */
-.leftcolumn {   
-  float: left;
-  width: 75%;
-}
-
-/* Right column */
-.rightcolumn {
-  float: left;
-  width: 25%;
-  padding-left: 20px;
-}
-
 /* Footer */
 .footer {
   padding: 20px;
