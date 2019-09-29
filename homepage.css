@@ -18,6 +18,20 @@ header {
   background-size: cover;
 }
 
+.column {
+  float:left;
+  padding:10px;
+  height:300px;
+}
+
+.left{
+  width:75%;
+}
+
+.right{
+  width:25%;
+}
+  
 ul {
   list-style-type: none;
   margin: 0;
