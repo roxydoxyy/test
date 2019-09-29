@@ -63,6 +63,25 @@ li a:hover {
   background-color: #202020;
   color: #7EB7EF;
 }
+
+dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #2b2b2b;
+  min-width:930px;
+  padding: 400px 200px
+  z-index: 1;
+}
+
+dropdown:hover .dropdown-content {
+  display: block;
+}
+  
   
 /* Footer */
 .footer {
