@@ -36,6 +36,10 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 
+li a: hover {
+  background-color: #c4c9ff;
+}
+
 nav {
   width: 100%;
 
