@@ -64,12 +64,12 @@ li a:hover {
   color: #7EB7EF;
 }
 
-dropdown {
+.dropdown {
   position: relative;
   display: inline-block;
 }
 
-dropdown-content {
+.dropdown-content {
   display: none;
   position: absolute;
   background-color: #2b2b2b;
@@ -78,7 +78,7 @@ dropdown-content {
   z-index: 1;
 }
 
-dropdown:hover .dropdown-content {
+.dropdown:hover.dropdown-content {
   display: block;
 }
   
