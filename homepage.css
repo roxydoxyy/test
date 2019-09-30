@@ -63,16 +63,16 @@ li a:hover {
 }
 
 hr {
-  border: 10px #292930;
+  border: 10px #0f0f0f;
   border-radius: 5px;
 }
 
-Footer {
+.Footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #292930;
+  background-color: ##0f0f0f;
   color: white;
   text-align: center;
 }
