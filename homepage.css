@@ -61,7 +61,11 @@ li a:hover {
   background-color: #202020;
   color: #7EB7EF;
 }
-  
+
+hr {
+  border: 10px #292930;
+  border-radius: 5px;
+}
 
 Footer {
   position: fixed;
