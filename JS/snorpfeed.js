@@ -1,15 +1,18 @@
-    function A1(){
-
-      var fName = prompt("Hey, what's your name?", name);
-      var myColour = prompt("Pick a colour, "+fName);
-
-      if (myColour == "red"){
-        console.log("Looks like this guy likes red. Noted")
-      } 
-
-      else if (myColour == "yellow"){
-        console.log("This guy chose yellow. Hmm")
-      } 
-
-      else {
-        console.log(fname+" chose a colour I hadn't thought of: "+ myColour)
+for ( var i = 1; i <= 100; i++ )
+{
+  if ( i%3 === 0 && i%5 === 0 )
+  {
+    console.log( i + " FizzBuzz" );
+  }
+  else if ( i%3 === 0 ) 
+  {
+    console.log(i+ " Fizz" );
+  }
+  else if ( i%5 === 0 ) 
+  {
+    console.log(i+ " Buzz" );
+  }
+  else
+  {
+    console.log(i);
+  }
