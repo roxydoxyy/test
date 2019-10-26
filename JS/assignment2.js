@@ -4,11 +4,11 @@ for ( var i = 1; i <= 100; i++ )
   {
     console.log( i + " TenFour" );
   }
-  else if ( i%3 === 0 ) 
+  else if ( i%10 === 0 ) 
   {
     console.log(i+ " Ten" );
   }
-  else if ( i%5 === 0 ) 
+  else if ( i%4 === 0 ) 
   {
     console.log(i+ " Four" );
   }
