@@ -13,3 +13,4 @@ function A1(){
 
       else {
         console.log(fname+" chose a colour I hadn't thought of: "+ myColour)
+      }
