@@ -32,3 +32,9 @@ function Triangles(){
       alert(180 - x - y + " " + "degree us the 3rdangle of the triangle");
       
 }
+
+
+function books_length(books_input){
+  return books_input.length;
+}
+console.log(books_length("hello"));
