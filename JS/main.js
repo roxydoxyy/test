@@ -33,8 +33,19 @@ function Triangles(){
       
 }
 
-
 function books_length(books_input){
   return books_input.length;
 }
 console.log(books_length("hello"));
+
+function password_check(userName, password){
+if (userName.toLowercase(=="Hello" && password=="12345")){
+  return("oh, okay I get it")
+} 
+  else{
+  return("I'm still a bit iffy")
+        
+}
+
+}
+console.log(password_check("Hello","12345"));
